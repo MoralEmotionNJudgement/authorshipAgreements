@@ -5,3 +5,8 @@ Here are some materials for talkgin about how to negotatiate authorship for the 
 
 ## The PSA way 
 The Psychological Science Accelerator is running massive online collaboration project where awarding authorship can be tricky 
+
+
+# Credit Taxonomy
+
+https://casrai.org/credit/ 
